@@ -40,6 +40,8 @@ List of links I find useful related to APIs
 
 ## Documentation
 
+- [Best Practices For Creating Useful API Documentation](https://nordicapis.com/best-practices-for-creating-useful-api-documentation/)
+
 - [Minimum Viable Documentation for RESTful APIs](https://www.youtube.com/watch?v=E3YesNMUx1o&list=WL&index=2)
 
 - [Swagger in ASP.NET Core: Tips & Tricks](https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/)
@@ -68,9 +70,15 @@ List of links I find useful related to APIs
 
 - [The OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
 
+- [OpenAPI.NET](https://github.com/microsoft/openapi.net/)
+
 ## Portal
 
 - [API Portal: What to Consider When Designing](https://dev.to/wriketechclub/api-portal-what-to-consider-when-designing-2c5)
+
+- [Minimum API Portal](https://github.com/api-evangelist/portal-minimum)
+
+- [Minimum viable portal (MVP) template for APIs](https://github.com/launchany/mvp-template)
 
 ## REST
 
