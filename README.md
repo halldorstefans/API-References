@@ -46,6 +46,8 @@ List of links I find useful related to APIs
 
 - [Swagger in ASP.NET Core: Tips & Tricks](https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/)
 
+- [How To Write Good Software Documentation](https://hackernoon.com/how-to-write-good-software-documentation-vh1831z2)
+
 ## Gateway
 
 - [What is an API Gateway?](https://dev.to/bearer/what-is-an-api-gateway-42i6)
