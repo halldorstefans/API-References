@@ -38,6 +38,8 @@ List of links I find useful related to APIs
 
 - [API pagination design](https://solovyov.net/blog/2020/api-pagination-design/)
 
+- [Microsoft eShopOnWeb ASP.NET Sample](https://github.com/dotnet-architecture/eShopOnWeb)
+
 ## Documentation
 
 - [Best Practices For Creating Useful API Documentation](https://nordicapis.com/best-practices-for-creating-useful-api-documentation/)
@@ -47,6 +49,8 @@ List of links I find useful related to APIs
 - [Swagger in ASP.NET Core: Tips & Tricks](https://blog.georgekosmidis.net/2020/07/11/swagger-in-asp-net-core-tips-and-tricks/)
 
 - [How To Write Good Software Documentation](https://hackernoon.com/how-to-write-good-software-documentation-vh1831z2)
+
+- [ReDoc](https://github.com/Redocly/redoc)
 
 ## Gateway
 
@@ -65,6 +69,16 @@ List of links I find useful related to APIs
 - [Automated Style Guides for REST, GraphQL and gRPC](https://stoplight.io/blog/style-guides-rest-graphql-grpc/)
 
 - [How To Build And Enforce Great API Governance](https://nordicapis.com/how-to-build-and-enforce-great-api-governance/)
+
+## GraphQL
+
+- [GraphQL in .NET](https://codetraveler.io/dotnetgraphql/)
+
+- [.NET Core + GraphQL + Serverless](https://dev.to/azure/free-workshop-on-net-core-graphql-serverless-3aei)
+
+## gRPC
+
+- [gRPC Guide](https://dev.to/drminnaar/grpc-guide-25mo)
 
 ## OpenAPI
 
@@ -93,6 +107,12 @@ List of links I find useful related to APIs
 - [Standards REST](http://standards.rest/)
 
 - [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
+
+- [REST API Design Best Practices for Sub and Nested Resources](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Best-Practices-for-Sub-and-Nested-Resources/)
+
+- [Avoid Data Corruption in Your REST API with ETags](https://www.kennethlange.com/avoid-data-corruption-in-your-rest-api-with-etags/)
+
+- [Handling Concurrent REST Requests and Caching with Etags](https://documentation.spryker.com/v3/docs/handling-concurrent-rest-requests-and-caching-with-etags-201907)
 
 ## Security
 
