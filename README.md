@@ -58,6 +58,8 @@ List of links I find useful related to APIs
 
 - [Tyk - API and service management platform](https://tyk.io/)
 
+- [Ocelot - Open Source .NET Core API Gateway](https://threemammals.com/ocelot)
+
 - [Designing Edge Gateway, Uber’s API Lifecycle Management Platform](https://eng.uber.com/gatewayuberapi/)
 
 ## Guidelines
