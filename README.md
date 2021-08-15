@@ -118,6 +118,8 @@ List of links I find useful related to APIs
 
 ## Security
 
+- [How to Hack APIs in 2021](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+
 - [How to securely store API keys](https://dev.to/bpedro/how-to-securely-store-api-keys-ab6)
 
 - [Steps to building authentication and authorization for RESTful APIs](https://dev.to/moesif/steps-to-building-authentication-and-authorization-for-restful-apis-2adl)
